@@ -98,7 +98,6 @@
     /* CSS styles for screens with a maximum width of 1050px */
     .hero {
         padding: 0 3%;
-        justify-content: flex-end;
     }
 }
 
@@ -106,7 +105,6 @@
     /* CSS styles for screens with a maximum width of 700px */
     .hero {
         padding: 0 2%;
-        justify-content: flex-end;
     }
 
     .content h1 {
@@ -132,7 +130,6 @@
     /* CSS styles for screens with a maximum width of 550px */
     .hero {
         padding: 0 1%;
-        justify-content: flex-end;
     }
     
     .content h1 {
@@ -159,7 +156,6 @@
     /* CSS styles for screens with a maximum width of 425px */
     .hero {
         padding: 0;
-        justify-content: flex-end;
     }
     
     .content h1 {
@@ -185,7 +181,6 @@
     /* CSS styles for screens with a maximum width of 375px */
     .hero {
         padding: 0;
-        justify-content: flex-end;
     }
     
     .content h1 {
@@ -211,7 +206,6 @@
     /* CSS styles for screens with a maximum width of 320px */
     .hero {
         padding: 0 15%;
-        justify-content: flex-end;
     } 
     
     .content h1 {
