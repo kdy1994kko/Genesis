@@ -210,7 +210,7 @@
 @media screen and (max-width: 320px) {
     /* CSS styles for screens with a maximum width of 320px */
     .hero {
-        padding: 0 30%;
+        padding: 0 15%;
         justify-content: flex-end;
     } 
     
