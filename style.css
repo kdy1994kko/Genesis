@@ -228,6 +228,25 @@
 }
 
 
+.typewriter {
+    overflow: hidden; /* Ensures the content is not visible until the typewriter effect starts */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Centers the typewriter effect */
+    letter-spacing: 0.1em; /* Adjusts the spacing between letters */
+    animation: typewriter 8s steps(40) 1s;
+}
+
+@keyframes typewriter {
+    0% {
+    width: 0;
+    }
+    100% {
+    width: 100%;
+    }
+}
+
+
+
 /* move the .hero to the right in every @media screen size */
 /* make the .hero fit in every @media screen size */
 /* can you add @media screen and (max-width: 425px), @media screen and (max-width: 375px), @media screen and (max-width: 320px) to my code for me */
